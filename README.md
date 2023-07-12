@@ -1,5 +1,7 @@
 ## ProjectilePlunge
 
+[Video Demo:](https://www.youtube.com/watch?v=LOXY49CsT1s)
+
 The projectile plunge game consists of obstacles moving up toward your character which is displayed on
 8 LED lights which align with the 8 columns of the LED matrix. Your goal is to dodge 10 obstacles. If you
 wish to reset the game at any time you can press the button provided. When the game is over, meaning
